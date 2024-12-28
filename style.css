@@ -38,7 +38,7 @@
     position: relative;
     bottom: 0px;
     left: 0px;
-    transition: .2s linear;
+    /* transition: .2s linear; */
     width: 100%;
     color: white !important;
     border-radius: 5px;
